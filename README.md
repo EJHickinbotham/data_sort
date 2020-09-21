@@ -1,2 +1,2 @@
-# data_sort
+# data_sorting
 sorting species data
